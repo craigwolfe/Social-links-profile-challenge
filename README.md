@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL:] (https://www.frontendmentor.io/solutions/social-links-card-challenge-DGk71r1V7g)
-- [Live Site URL:](https://craigwolfe.github.io/Social-links-profile-challenge/)
+- [Solution URL](https://www.frontendmentor.io/solutions/social-links-card-challenge-DGk71r1V7g)
+- [Live Site URL](https://craigwolfe.github.io/Social-links-profile-challenge/)
 
 ### Built with
 
